@@ -1,4 +1,4 @@
-<h1>Hi, I'm Boni! <br/><a href="https://github.com/bnira/bnira">Programmer</a>, <a href="https://www.linkedin.com/in/boniface-thuranira/">Computer Engineer - Space exploration</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Boni! <br/><a href="https://github.com/bnira/bnira">Programmer</a>, <a href="https://www.linkedin.com/in/boniface-thuranira/">Computer Engineer - Space exploration</a>, 
 
 
 Here are some ideas to get you started:
